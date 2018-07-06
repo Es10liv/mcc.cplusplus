@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\eston\documents\coms-171\ch3\ch3_14\ch3_14\source.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eston\documents\coms-171\ch3\ch3_14\ch3_14\source.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\eston\documents\coms-171\ch3\ch3_14\ch3_14\source.cpp(26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Ch3_14.vcxproj -> C:\Users\Eston\Documents\COMS-171\Ch3\Ch3_14\Debug\Ch3_14.exe
