@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\eston\documents\coms-171\ch4\ch4_14\ch4_14\source.cpp(14): warning C4101: 'dblCheckPerMonth': unreferenced local variable
+  Ch4_14.vcxproj -> C:\Users\Eston\Documents\COMS-171\Ch4\Ch4_14\Debug\Ch4_14.exe
