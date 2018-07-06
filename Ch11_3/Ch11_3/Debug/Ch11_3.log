@@ -1,0 +1,3 @@
+﻿Source.obj : error LNK2005: "public: __thiscall Division::Division(void)" (??0Division@@QAE@XZ) already defined in Division.obj
+Source.obj : error LNK2005: "public: __thiscall Division::~Division(void)" (??1Division@@QAE@XZ) already defined in Division.obj
+C:\Users\Eston\Documents\COMS-171\Chapter 11\Ch11_3\Debug\Ch11_3.exe : fatal error LNK1169: one or more multiply defined symbols found
