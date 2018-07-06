@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\eston\documents\coms-171\chapter 10\ch10_10\ch10_10\source.cpp(19): error C2059: syntax error: ','
+c:\users\eston\documents\coms-171\chapter 10\ch10_10\ch10_10\source.cpp(20): error C2143: syntax error: missing ';' before '{'
+c:\users\eston\documents\coms-171\chapter 10\ch10_10\ch10_10\source.cpp(20): error C2143: syntax error: missing ';' before '}'
+c:\users\eston\documents\coms-171\chapter 10\ch10_10\ch10_10\source.cpp(22): error C2065: 'string3': undeclared identifier
